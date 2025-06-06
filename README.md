@@ -1,4 +1,5 @@
-![👋 Welcome to my profile](https://i.pinimg.com/736x/f2/12/2d/f2122ddbf105811aecaa45d01a7b39b4.jpg)
+<img src="https://i.pinimg.com/736x/f2/12/2d/f2122ddbf105811aecaa45d01a7b39b4.jpg" alt="👋 Welcome to my profile" width="400">
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=muratcyrl&label=Profile%20views&color=0e75b6&style=flat)
 
