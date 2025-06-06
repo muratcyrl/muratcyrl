@@ -1,4 +1,4 @@
-![👋 Welcome to my profile](https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774)
+![👋 Welcome to my profile]([https://cdna.artstation.com/p/assets/images/images/066/880/442/original/ilgin-gungor-calisma-masasi11.gif?1694002774](https://i.pinimg.com/736x/f2/12/2d/f2122ddbf105811aecaa45d01a7b39b4.jpg))
 
 ![Profile views](https://komarev.com/ghpvc/?username=muratcyrl&label=Profile%20views&color=0e75b6&style=flat)
 
