@@ -10,7 +10,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👑 Welcome to the Empire 👑
+        👑 Welcome to the Empire ⚜️
       </h1>
     </summary>
   </ul>
