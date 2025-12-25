@@ -12,7 +12,7 @@
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/musa-murat-çayirli-5017452b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
@@ -21,17 +21,17 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🎓 Final-year **Bachelor’s student**
-- 🔌 Passionate about **Embedded Systems & PCB Design**
-- 🤖 Strong interest in **AI & Intelligent Systems**
-- 🌍 Working on **data-driven environmental projects**
+- 🔌 Interested in **Embedded Systems & PCB Design**
+- 🤖 Exploring **AI & Intelligent Systems**
+- 🌍 Data-driven **environmental & engineering projects**
 
 ---
 
-### ⚡ Rapid Fire
+## ⚡ Rapid Fire
 - 💼 **Currently working on:**  
-  *Developing a project on greenhouse gases in EU countries to extract fuzzy logic rules*
+  *Greenhouse gas analysis in EU countries using fuzzy logic*
 - 🌱 **Currently learning:**  
   *Large Language Model (LLM) architectures*
 - 💬 **Ask me about:**  
@@ -39,7 +39,7 @@
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Skills
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="28"/>
@@ -53,24 +53,30 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muratcyrl&theme=react&hide_title=false&show_icons=false&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=muratcyrl&theme=react" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=muratcyrl&theme=react&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img width="48%" 
+       src="https://streak-stats.demolab.com?user=muratcyrl&theme=react" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratcyrl&theme=react&layout=compact&langs_count=6" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=muratcyrl&repo=greenhouse-tracking-system-via-an-android-application&show_owner=true&theme=react" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcyrl&layout=compact&theme=react&langs_count=6&cache_seconds=1800" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/pin/?username=muratcyrl&repo=greenhouse-tracking-system-via-an-android-application&theme=react&show_owner=true" />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/muratcyrl/muratcyrl/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
+---
+
 <div align="center">
-  <i>“Engineering the future — one system at a time.”</i>
+  <i>Engineering the future — one system at a time.</i>
 </div>
