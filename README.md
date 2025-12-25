@@ -53,27 +53,25 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api?username=muratcyrl&show_icons=true&theme=react" />
-  <img width="48%"
-       src="https://streak-stats.demolab.com?user=muratcyrl&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muratcyrl&theme=react" />
 </p>
 
 <p align="center">
   <img width="48%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcyrl&layout=compact&theme=react" />
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muratcyrl&theme=react" />
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muratcyrl&theme=react" />
 </p>
 
----
-
-## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muratcyrl/muratcyrl/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muratcyrl&theme=react" />
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muratcyrl&theme=react&utcOffset=3" />
 </p>
-
 ---
 
 <div align="center">
