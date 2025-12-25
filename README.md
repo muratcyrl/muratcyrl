@@ -53,20 +53,26 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
+
 <p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=muratcyrl&theme=react&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img width="48%" 
-       src="https://streak-stats.demolab.com?user=muratcyrl&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muratcyrl&theme=react" />
 </p>
 
 <p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcyrl&layout=compact&theme=react&langs_count=6&cache_seconds=1800" />
-  <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api/pin/?username=muratcyrl&repo=greenhouse-tracking-system-via-an-android-application&theme=react&show_owner=true" />
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muratcyrl&theme=react" />
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muratcyrl&theme=react" />
 </p>
+
+<p align="center">
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muratcyrl&theme=react" />
+  <img width="48%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muratcyrl&theme=react&utcOffset=3" />
+</p>
+
 
 ---
 
